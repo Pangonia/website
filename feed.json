@@ -1,0 +1,14 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Pangonia",
+    "description": "",
+    "home_page_url": "https://pangonia.de",
+    "feed_url": "https://pangonia.de/feed.json",
+    "user_comment": "",
+    "icon": "https://pangonia.de/media/website/Pangonia-Logo-240.png",
+    "author": {
+        "name": "Mari"
+    },
+    "items": [
+    ]
+}
